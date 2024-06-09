@@ -1,4 +1,4 @@
-# Python Studies
+# Python
 
 Welcome to my Python Studies repository! This collection contains various Python projects and exercises from "The Complete Python Bootcamp From Zero to Hero in Python" by Jose Portilla that I have worked on to enhance my skills in Python programming. From basic syntax to more advanced concepts, this repository showcases my journey and proficiency in Python.
 
