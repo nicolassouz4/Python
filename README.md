@@ -6,7 +6,7 @@ Welcome to my Python Studies repository! This collection contains various Python
 This repository is a curated collection of my Python projects and exercises. Each project and exercise is designed to tackle different aspects of Python programming, including basic syntax, data structures, functional programming, object-oriented programming, and more.
 
 ## Topics Covered
-1. **Object Types (strings, numbers, tuples) and Data Structures (list, dictionaries, sets)**
+1. **Object Types and Data Structures**
 2. **Functions**
 3. **Object Oriented Programming**
 4. **Debugging and Error Handling**
