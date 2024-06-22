@@ -4,7 +4,7 @@ Welcome to my Python repository! This collection contains various Python project
 
 ## Content
 1. **Projects**
-2. **Studies**
+2. **Subjects**
 
 ## Installation
 To run the projects and exercises in this repository, you'll need to have Python installed on your machine. You can download Python from the official website: [python.org](https://www.python.org/).
