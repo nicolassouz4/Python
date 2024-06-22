@@ -7,12 +7,13 @@ This repository is a curated collection of my Python projects and exercises. Eac
 
 ## Topics Covered
 1. **Object Types and Data Structures**
-2. **Functions**
-3. **Object Oriented Programming**
-4. **Debugging and Error Handling**
-5. **Built-in Functions**
-6. **Advanced Methods**
-7. **Web Scraping**
+2. **Statements**
+3. **Functions**
+4. **Object Oriented Programming**
+5. **Debugging and Error Handling**
+6. **Built-in Functions**
+7. **Advanced Methods**
+8. **Web Scraping**
 
 ## Installation
 To run the projects and exercises in this repository, you'll need to have Python installed on your machine. You can download Python from the official website: [python.org](https://www.python.org/).
