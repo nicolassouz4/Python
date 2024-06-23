@@ -4,7 +4,7 @@
   <h1>Python Projects</h1>
   <p>This repository showcases projects that I developed while learning Python.</p><br>
   
-  <h2 id="tic-tac-toe" href='https://github.com/nicolassouz4/Python/blob/793b31bfa87d9432911ffac28f83ef812f3930a5/Projects/01%20-%20TIC%20TAC%20TOE.ipynb'> 01 - Tic Tac Toe</h2>
+  <h2><a href='https://github.com/nicolassouz4/Python/blob/793b31bfa87d9432911ffac28f83ef812f3930a5/Projects/01%20-%20TIC%20TAC%20TOE.ipynb'> 01 - Tic Tac Toe<a></h2>
   <p>The objective of this project was to create a simple implementation of the classic Tic Tac Toe game in Python. The project followed these main steps:</p>
   <ul>
     <li><strong>&#127942; Class Creation:</strong> The game logic is encapsulated in a TicTacToe class, which helps organize the code and separate it from other parts of the program.</li>
@@ -18,8 +18,8 @@
     <li><strong>&#128257; Code Reusability:</strong> By using classes and functions, the code is more reusable, allowing for easier maintenance and extension of the game in the future.</li>
   </ul>
 
-  <h2 id="blackjack" href='https://github.com/nicolassouz4/Python/blob/b330513899ab60d65b8bb6004a6e27c69ade8fce/Projects/02%20-%20BLACKJACK.ipynb'> 02 - Blackjack</h2>
-  <p>The objective of this project was to create a simple implementation of the classic Tic Tac Toe game in Python. The project followed these main steps:</p>
+  <h2><a href='https://github.com/nicolassouz4/Python/blob/b330513899ab60d65b8bb6004a6e27c69ade8fce/Projects/02%20-%20BLACKJACK.ipynb'> 02 - Blackjack</a></h2>
+  <p> This project aimed to create a Blackjack game in Python. The project followed these main steps:</p>
   <ul>
         <li><strong>&#127942; Classes:</strong> The project uses classes to represent various components of the game, such as Card, Deck, Hand, and Chips. This allows for a more organized and modular code structure.</li>
         <li><strong>&#127919; Object-Oriented Programming (OOP):</strong> OOP principles are employed to encapsulate the game's logic and data within classes. This improves code reusability and maintainability.</li>
