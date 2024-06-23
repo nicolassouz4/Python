@@ -7,6 +7,6 @@ This repository is a curated collection of my Python studies and exercises. Each
 3. **Functions**
 4. **Object Oriented Programming**
 5. **Errors and Exceptions**
-6. **Built-in Functions**
+6. **Iterators and Generators**
 7. **Advanced Methods**
 8. **Web Scraping**
