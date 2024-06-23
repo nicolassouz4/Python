@@ -6,7 +6,7 @@ This repository is a curated collection of my Python studies and exercises. Each
 2. **Statements**
 3. **Functions**
 4. **Object Oriented Programming**
-5. **Debugging and Error Handling**
+5. **Errors and Exceptions**
 6. **Built-in Functions**
 7. **Advanced Methods**
 8. **Web Scraping**
