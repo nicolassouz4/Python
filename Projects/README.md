@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1>Python Projects</h1>
-  <p>This repository showcases projects that I developed while learning Python.</p><br>
+  <p>This repository showcases projects that I developed while learning Python. For each project, I included the main concepts used and the idea behind each one.</p><br>
   
   <h2><a href='https://github.com/nicolassouz4/Python/blob/793b31bfa87d9432911ffac28f83ef812f3930a5/Projects/01%20-%20TIC%20TAC%20TOE.ipynb'> 01 - Tic Tac Toe<a></h2>
   <p>The objective of this project was to create a simple implementation of the classic Tic Tac Toe game in Python. The project followed these main steps:</p>
